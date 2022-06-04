@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.App{
+    background-image: linear-gradient(lightblue, pink, lightyellow);
+    height: 100vh;
+    background-repeat: repeat;
+}
